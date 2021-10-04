@@ -1,11 +1,12 @@
 {
   "name": "vue-numeric-keypad-demo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
+    "pre-demo": "sed -i '' 's/=\"\//=\".\//g' ./dist/index.html",
     "push-demo": "git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
