@@ -1,24 +1,7 @@
 # vue-numeric-keypad-demo
 
-## Project setup
-```
-npm install
-```
+This is Demo page of [![github](https://img.shields.io/badge/github-vue--numeric--keypad-blue)](https://github.com/Chae-Sumin/vue-numeric-keypad-demo)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Go to gh-page: [![github](https://img.shields.io/badge/gh--page-vue--numeric--keypad-blue)](https://chae-sumin.github.io/vue-numeric-keypad/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Go to npm: [![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/Chae-sumin/vue-numeric-keypad-demo/vue-numeric-keypad)](https://www.npmjs.com/package/vue-numeric-keypad)
